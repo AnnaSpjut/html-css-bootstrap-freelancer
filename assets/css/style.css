@@ -1,5 +1,5 @@
 [class^="container"],
-[class^="container"]{
+[class^="col"]{
   background-color: lightgreen;
   border: 1px solid black;
 }
