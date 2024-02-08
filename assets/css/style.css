@@ -4,6 +4,7 @@
   border: 1px solid black;
 }
 
-header{
+header, footer{
   height: 90px;
+  background-color: grey;
 }
