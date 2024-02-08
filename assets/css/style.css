@@ -1,5 +1,6 @@
 [class^="container"],
-[class^="col"]{
+[class^="col"],
+[class^="as-container"]{
   background-color: lightgreen;
   border: 1px solid black;
 }
@@ -7,4 +8,9 @@
 header, footer{
   height: 90px;
   background-color: grey;
+}
+
+.as-container{
+  width: 60%;
+  margin: 0 auto;
 }
